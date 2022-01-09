@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kinoko](https://www.kinoko.app/)
 
-- 🌱 I’m currently learning **more Ruby on Rails, JavaScript, CSS...**
+- 🌱 I’m currently learning **more Ruby on Rails, JavaScript, CSS, React.js ...**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/ttchz](https://troopl.com/ttchz)
 
