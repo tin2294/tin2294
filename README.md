@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ting Ting</h1>
 <h3 align="center">A passionate fullstack developer from Spain.</h3>
 
-- 🔭 I’m currently working on [30 Days JavaScript Challenges](https://javascript30.com/) and redoing some of my past challenges (Watchlist, coding challenges, etc.).
+- 🔭 I’m currently working on [30 Days JavaScript Challenges](https://javascript30.com/) and [Repository Search](https://github.com/tin2294/repository-search).
 
 - 🌱 I’m currently learning **more Ruby on Rails, JavaScript, CSS, React.js ...**
 
