@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently studying **Computer Engineering at NYU**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/ttchz](https://troopl.com/ttchz)
+- 📽️ All of my projects are available at [https://troopl.com/ttchz](https://troopl.com/ttchz)
+  
+- 👩‍💻 I worked as a Software Engineer at Pennylane from Mar 2022 - Aug 2023
 
 - ⚡ Fun fact: **I (not biased at all) have the greatest dog in the world, Fiona!**
 
