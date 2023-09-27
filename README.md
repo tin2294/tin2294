@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ting Ting</h1>
 <h3 align="center">A passionate fullstack developer from Spain.</h3>
 
-- 🔭 I’m currently working on [Food Tracker](https://github.com/tin2294/food-tracker).
-
-- 🌱 I’m currently learning **more Ruby on Rails, JavaScript, CSS, React.js ...**
+- 🌱 I’m currently studying **Computer Engineering at NYU**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/ttchz](https://troopl.com/ttchz)
 
