@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ting Ting</h1>
 <h3 align="center">A passionate fullstack developer from Spain.</h3>
 
-- 🌱 I’m currently studying **Computer Engineering at NYU**
+- 🌱 I have just completed my Masters in **Computer Engineering at NYU**
 
-- 📽️ All of my projects are available at [https://troopl.com/ttchz](https://troopl.com/ttchz)
+- 📽️ Some of my earlier projects are available at [https://troopl.com/ttchz](https://troopl.com/ttchz)
   
 - 👩‍💻 I worked as a Software Engineer at Pennylane from Mar 2022 - Aug 2023
 
